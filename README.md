@@ -12,3 +12,5 @@ Server listening on port 8888
 http://localhost:8888/hamster
 
 Flink Console on port 8887
+
+http://localhost:8887/#/job/running
