@@ -9,6 +9,6 @@ docker-compose -f stack.yml up
 
 Server listening on port 8888
 
-/hamster
+http://localhost:8888/hamster
 
 Flink Console on port 8887
